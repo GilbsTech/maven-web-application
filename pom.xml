@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>GilbsTech Releases Nexus Repository</name>
-	      <url>http://13.58.167.143:8081/repository/Mayimawebapp-releases/</url>
+	      <url>http://13.58.167.143:8081/repository/Mayima2webapp-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>GilbsTech Snapshot Nexus Repository </name>
-	      <url>http://13.58.167.143:8081/repository/Mayimawebapp-snapshot/</url>
+	      <url>http://13.58.167.143:8081/repository/Mayimawebapp2-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>Payless</finalName>
+		<finalName>Mayima</finalName>
 		
 		<plugins>
 			<plugin>
