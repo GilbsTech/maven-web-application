@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>GilbsTech Releases Nexus Repository</name>
-	      <url>http://18.188.16.134:8081/repository/Payless-webapp-releases/</url>
+	      <url>http://13.58.167.143:8081/repository/Mayimawebapp-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>GilbsTech Snapshot Nexus Repository </name>
-	      <url>http://18.188.16.134:8081/repository/Payless-webapp-snapshots/</url>
+	      <url>http://13.58.167.143:8081/repository/Mayimawebapp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
