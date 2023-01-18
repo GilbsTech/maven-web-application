@@ -95,19 +95,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>GilbsTech Releases Nexus Repository</name>
-	      <url>http://3.143.0.30:8081/repository/Mayimawebapp3-releases/</url>
+	      <url>http://172.31.3.194:8081/repository/Mayimawebapp3-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>GilbsTech Snapshot Nexus Repository </name>
-	      <url>http://3.143.0.30:8081/repository/Mayimawebapp3-snapshot/</url>
+	      <url>http://172.31.3.194:8081/repository/Mayimawebapp3-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>Payless</finalName>
+		<finalName>Jambopay</finalName>
 		
 		<plugins>
 			<plugin>
